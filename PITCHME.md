@@ -91,7 +91,7 @@ Purdue University
 
 ---
 ### Social Network Analysis
-- An approach that suggests patterns of relations more than their content have consequences for individuals, groups and societies.
+- An approach that suggests patterns of relations have consequences for individuals, groups and societies.
 
 ![socialnetwork](img/network.jpg)
 
